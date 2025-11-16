@@ -3,11 +3,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Raflilia Packs — أفضل من TwinFragrance</title>
+  <title>Coffret Adoo — أفضل باكات Raflilia</title>
   <style>
-    :root{--accent:#E11D48;--muted:#6B7280;--bg:#f7f7fb}
-    body{font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);margin:0;color:#111}
-    header{background:linear-gradient(90deg,#111827, #1f2937);color:#fff;padding:22px 16px;text-align:center}
+    :root{
+      --accent:#E11D48;
+      --muted:#6B7280;
+      --bg:#f7f7fb;
+    }
+    body{
+      font-family:Inter,Arial,Helvetica,sans-serif;
+      background:var(--bg);
+      margin:0;
+      color:#111;
+    }
+    header{
+      background:linear-gradient(90deg,#111827, #1f2937);
+      color:#fff;
+      padding:22px 16px;
+      text-align:center;
+    }
     header h1{margin:0;font-size:22px}
     .container{max-width:980px;margin:26px auto;padding:0 16px}
     .top{display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
@@ -32,13 +46,13 @@
 </head>
 <body>
   <header>
-    <h1>Raflilia Packs — عروض و باكات جاهزة للبيع (طلب عبر الواتساب)</h1>
+    <h1>Coffret Adoo — عروض Raflilia Packs (طلب عبر WhatsApp)</h1>
   </header>
 
   <div class="container">
     <div class="top">
       <div class="hero">
-        <h2>Coffret RAFLILIA Collection 5 Pièces Pour Femme et Homme   </h2>
+        <h2>Coffret RAFLILIA Collection 5 Pièces Pour Femme et Homme</h2>
         <p>اختار الباك، عطي الاسم و البلاصة و رقم الهاتف — و غادي نرسلوك فوراً عبر WhatsApp باش تأكد الطلب.</p>
       </div>
 
@@ -48,129 +62,42 @@
 
     <section class="packs" aria-label="Packs list">
 
+      <!-- Sample packs -->
       <article class="card">
         <img src="https://makeupstore15.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-01-a-14.38.04_e3442015.jpg" alt="Pack 1" />
-        <h3>Pack LUXURIANCE </h3>
+        <h3>Pack LUXURIANCE</h3>
         <div class="price">199 DH</div>
-        <p> مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
+        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
         <a class="order-btn" href="#order-form">طلب الآن</a>
       </article>
 
       <article class="card">
         <img src="https://makeupstore15.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-01-a-14.38.03_46e2ddca.jpg" alt="Pack 2" />
-        <h3>Pack BROWN </h3>
+        <h3>Pack BROWN</h3>
         <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
+        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.</p>
         <a class="order-btn" href="#order-form">طلب الآن</a>
       </article>
 
       <article class="card">
         <img src="https://makeupstore15.com/wp-content/uploads/2025/03/IMG-20250328-WA0068-1.jpg" alt="Pack 3" />
-        <h3>Pack YOU </h3>
+        <h3>Pack YOU</h3>
         <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
+        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.</p>
         <a class="order-btn" href="#order-form">طلب الآن</a>
       </article>
 
       <article class="card">
         <img src="https://makeupstore15.com/wp-content/uploads/2025/03/IMG-20250328-WA0074-2.jpg" alt="Pack 4" />
-        <h3>Pack amirat al arab </h3>
+        <h3>Pack AMIRAT AL ARAB</h3>
         <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
+        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.</p>
         <a class="order-btn" href="#order-form">طلب الآن</a>
       </article>
-      
-      <article class="card">
-        <img src="blob:https://web.whatsapp.com/e7b4f7f5-f7ea-4aa5-97e7-32f59f6e6585" alt="Pack 5" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_6" alt="Pack 6" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_7" alt="Pack 7" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_8" alt="Pack 8" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_9" alt="Pack 9" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_10" alt="Pack 10" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_11" alt="Pack 11" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_12" alt="Pack 12" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_13" alt="Pack 13" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
-      <article class="card">
-        <img src="IMAGE_URL_14" alt="Pack 14" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-           
-      <article class="card">
-        <img src="IMAGE_URL_15" alt="Pack 15" />
-        <h3>Pack Raflilia </h3>
-        <div class="price">199 DH</div>
-        <p>مجموعة كاملة من منتجات العناية والتجميل للنساء، مناسبة لجميع أنواع البشرة وجميع الأعمار.كل باك كيجمع بين العطر، اللوشن، الكريمات، والزيوت بجودة عالية وثبات ممتاز.</p>
-        <a class="order-btn" href="#order-form">طلب الآن</a>
-      </article>
-      
+
     </section>
 
-    <!-- Order form that opens WhatsApp with prefilled message -->
+    <!-- Order form -->
     <section id="order-form" class="order-area">
       <h2>نموذج الطلب — عبي المعلومات و غادي نرسل الطلب عبر WhatsApp</h2>
       <form id="waForm" onsubmit="sendWhatsApp(event)">
@@ -180,7 +107,7 @@
         <label for="phone">رقم التلفون</label>
         <input id="phone" name="phone" type="text" placeholder="مثال: 06XXXXXXXX" required />
 
-        <label for="location">المدينة / العنوان (Localization)</label>
+        <label for="location">المدينة / العنوان</label>
         <input id="location" name="location" type="text" placeholder="مثال: الدار البيضاء، السويسي" required />
 
         <label for="pack">اسم الباك لي بغيتي</label>
@@ -196,13 +123,14 @@
         <button class="submit" type="submit">إرسال الطلب عبر WhatsApp</button>
       </form>
 
-      <p style="margin-top:12px;color:var(--muted)"><strong>ملاحظة:</strong> عند الضغط على إرسال، غادي يفتح واتساب مع رسالة مكتوبة تلقائياً لرقم <strong>0642553660</strong> تحتوي جميع المعلومات باش تقدر تأكد الطلب.</p>
+      <p style="margin-top:12px;color:var(--muted)">
+        <strong>ملاحظة:</strong> عند الضغط على إرسال، غادي يفتح واتساب مع رسالة مكتوبة تلقائياً لرقم <strong>0642553660</strong>.
+      </p>
     </section>
-
   </div>
 
   <footer>
-    تم التصميم باش يكون أسرع وأثقل ثقة من TwinFragrance. استعمله على GitHub Pages، Netlify أو Vercel. بغيت نبدل الصور والا النصوص؟ سولني ونعملها ليك بسرعة.
+    Coffret Adoo — أسرع وأوثق من TwinFragrance. جاهز للـ GitHub Pages / Netlify / Vercel.
   </footer>
 
   <script>
@@ -214,14 +142,14 @@
       const location = document.getElementById('location').value.trim();
       const pack = document.getElementById('pack').value;
       const note = document.getElementById('note').value.trim();
-      const target = '212642553660'; // 0642553660 without leading 0
-      let msg = `طلب%20من%20الموقع%3A%0A`;
-      msg += `الاسم%3A%20${esc(name)}%0A`;
-      msg += `الهاتف%3A%20${esc(phone)}%0A`;
-      msg += `المكان%3A%20${esc(location)}%0A`;
-      msg += `الباك%3A%20${esc(pack)}%0A`;
-      if(note) msg += `ملاحظة%3A%20${esc(note)}%0A`;
-      const url = `https://wa.me/${target}?text=${msg}`;
+      const target = '212642553660';
+      let msg = `طلب من الموقع:\n`;
+      msg += `الاسم: ${name}\n`;
+      msg += `الهاتف: ${phone}\n`;
+      msg += `المكان: ${location}\n`;
+      msg += `الباك: ${pack}\n`;
+      if(note) msg += `ملاحظة: ${note}\n`;
+      const url = `https://wa.me/${target}?text=${encodeURIComponent(msg)}`;
       window.open(url,'_blank');
     }
   </script>
